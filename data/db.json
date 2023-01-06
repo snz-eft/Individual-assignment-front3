@@ -1,0 +1,314 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "address": "O'Hara Island",
+      "date": "2020-12-04",
+      "category": "rent",
+      "price": 1075718,
+      "unit": "USD",
+      "description": "Here you are met by a well-planned and bright four-room apartment of 148 square meters. Large windows in the living room and generous ceiling height. Simply a pleasant accommodation.",
+      "images": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f802605124b90428355f747961c99371-cc_ft_1536.webp",
+          "alt": "main image"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4042a68f75f7d211efcc1b1d852a5034-cc_ft_768.webp",
+          "alt": "Living room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c9ca67ab95540c3938aa1509c3b416-cc_ft_768.webp",
+          "alt": "Dining room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64c2f7a6827574406a3b70c692e55abb-cc_ft_768.webp",
+          "alt": "Bed room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8240e3d9b4ff42e13dad27bfa9c509e7-cc_ft_768.webp",
+          "alt": "Bath room"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "address": "housMillie Keye 2",
+      "date": "2019-02-17",
+      "category": "sell",
+      "price": 984165,
+      "unit": "USD",
+      "description": "We are pleased to present a unique opportunity for a bright and homely gabled apartment on the second floor with a balcony where you can enjoy the sun and lake view. Welcoming hall with hanging facilities and wardrobes. Bright kitchen in classic style with generous dining area, here there is plenty of storage in cupboards and a large corner pantry. Airy family room with high ceiling, beautiful parquet floor and fireplaceUSD",
+      "images": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb04ecea10351498b1390f5cb4b35c32-cc_ft_1536.webp",
+          "alt": "main image"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4042a68f75f7d211efcc1b1d852a5034-cc_ft_768.webp",
+          "alt": "Living room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c9ca67ab95540c3938aa1509c3b416-cc_ft_768.webp",
+          "alt": "Dining room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64c2f7a6827574406a3b70c692e55abb-cc_ft_768.webp",
+          "alt": "Bed room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8240e3d9b4ff42e13dad27bfa9c509e7-cc_ft_768.webp",
+          "alt": "Bath room"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "address": "Gibson Plains",
+      "date": "2020-04-30",
+      "category": "buy",
+      "price": 500098,
+      "unit": "USD",
+      "description": "Proximity to grocery store, shops, gym, restaurant, pizzerias, pharmacy and exercise track. Only a 15-minute walk takes you into the center.Good bus connections to the city pulse and to the University. This is a perfect home for you who are a student or want a pleasant apartment close to everything.",
+      "images": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6409282398e147b3e92498787db62c19-cc_ft_1536.webp",
+          "alt": "main image"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4042a68f75f7d211efcc1b1d852a5034-cc_ft_768.webp",
+          "alt": "Living room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c9ca67ab95540c3938aa1509c3b416-cc_ft_768.webp",
+          "alt": "Dining room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64c2f7a6827574406a3b70c692e55abb-cc_ft_768.webp",
+          "alt": "Bed room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8240e3d9b4ff42e13dad27bfa9c509e7-cc_ft_768.webp",
+          "alt": "Bath room"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "address": "Rippin Roads",
+      "date": "2020-08-11",
+      "category": "buy",
+      "price": 993415,
+      "unit": "USD",
+      "description": "Here you are met by a well-planned and bright four-room apartment of 148 square meters. Large windows in the living room and generous ceiling height. Simply a pleasant accommodation.",
+      "images": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/ff86b42ad90641ff0de71f89910b08a9-cc_ft_1536.webp",
+          "alt": "main image"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4042a68f75f7d211efcc1b1d852a5034-cc_ft_768.webp",
+          "alt": "Living room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c9ca67ab95540c3938aa1509c3b416-cc_ft_768.webp",
+          "alt": "Dining room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64c2f7a6827574406a3b70c692e55abb-cc_ft_768.webp",
+          "alt": "Bed room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8240e3d9b4ff42e13dad27bfa9c509e7-cc_ft_768.webp",
+          "alt": "Bath room"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "address": "Gibson Plains",
+      "date": "2022-04-03",
+      "category": "sell",
+      "price": 740464,
+      "unit": "USD",
+      "description": "We are pleased to present a unique opportunity for a bright and homely gabled apartment on the second floor with a balcony where you can enjoy the sun and lake view. Welcoming hall with hanging facilities and wardrobes. Bright kitchen in classic style with generous dining area, here there is plenty of storage in cupboards and a large corner pantry. Airy family room with high ceiling, beautiful parquet floor and fireplace. Two bedrooms with lake views, one of which has access to a balcony. WC/Shower with tiles/clinkers, comfortable underfloor heating, equipped with washing machine/dryerUSD",
+      "images": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fb04ecea10351498b1390f5cb4b35c32-cc_ft_1536.webp",
+          "alt": "main image"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4042a68f75f7d211efcc1b1d852a5034-cc_ft_768.webp",
+          "alt": "Living room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c9ca67ab95540c3938aa1509c3b416-cc_ft_768.webp",
+          "alt": "Dining room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64c2f7a6827574406a3b70c692e55abb-cc_ft_768.webp",
+          "alt": "Bed room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8240e3d9b4ff42e13dad27bfa9c509e7-cc_ft_768.webp",
+          "alt": "Bath room"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "address": "Mitchell Forges",
+      "date": "2021-05-09",
+      "category": "rent",
+      "price": 938071,
+      "unit": "USD",
+      "description": "Here you are met by a well-planned and bright four-room apartment of 148 square meters. Large windows in the living room and generous ceiling height. Simply a pleasant accommodation.",
+      "images": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/2c00d6694e54eaef30f57002dbea198f-cc_ft_1536.webp",
+          "alt": "main image"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4042a68f75f7d211efcc1b1d852a5034-cc_ft_768.webp",
+          "alt": "Living room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c9ca67ab95540c3938aa1509c3b416-cc_ft_768.webp",
+          "alt": "Dining room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64c2f7a6827574406a3b70c692e55abb-cc_ft_768.webp",
+          "alt": "Bed room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8240e3d9b4ff42e13dad27bfa9c509e7-cc_ft_768.webp",
+          "alt": "Bath room"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "address": "Serena Islands",
+      "date": "2020-03-23",
+      "category": "sell",
+      "price": 800461,
+      "unit": "USD",
+      "description": "Here you are met by a well-planned and bright four-room apartment of 148 square meters. Large windows in the living room and generous ceiling height. Simply a pleasant accommodation.",
+      "images": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/a8c13fa3cd3d2d1c0ae279a61935d7c8-cc_ft_1536.webp",
+          "alt": "main image"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4042a68f75f7d211efcc1b1d852a5034-cc_ft_768.webp",
+          "alt": "Living room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c9ca67ab95540c3938aa1509c3b416-cc_ft_768.webp",
+          "alt": "Dining room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64c2f7a6827574406a3b70c692e55abb-cc_ft_768.webp",
+          "alt": "Bed room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8240e3d9b4ff42e13dad27bfa9c509e7-cc_ft_768.webp",
+          "alt": "Bath room"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "address": "O'Hara Island",
+      "date": "2020-09-13",
+      "category": "rent",
+      "price": 943137,
+      "unit": "USD",
+      "description": "Here you are met by a well-planned and bright four-room apartment of 148 square meters. Large windows in the living room and generous ceiling height. Simply a pleasant accommodation.",
+      "images": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f802605124b90428355f747961c99371-cc_ft_1536.webp",
+          "alt": "main image"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4042a68f75f7d211efcc1b1d852a5034-cc_ft_768.webp",
+          "alt": "Living room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c9ca67ab95540c3938aa1509c3b416-cc_ft_768.webp",
+          "alt": "Dining room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64c2f7a6827574406a3b70c692e55abb-cc_ft_768.webp",
+          "alt": "Bed room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8240e3d9b4ff42e13dad27bfa9c509e7-cc_ft_768.webp",
+          "alt": "Bath room"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "address": "O'Hara Island",
+      "date": "2022-05-20",
+      "category": "rent",
+      "price": 700935,
+      "unit": "USD",
+      "description": "The Here you are met by a well-planned and bright four-room apartment of 148 square meters. Large windows in the living room and generous ceiling height. Simply a pleasant accommodation.",
+      "images": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f802605124b90428355f747961c99371-cc_ft_1536.webp",
+          "alt": "main image"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4042a68f75f7d211efcc1b1d852a5034-cc_ft_768.webp",
+          "alt": "Living room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c9ca67ab95540c3938aa1509c3b416-cc_ft_768.webp",
+          "alt": "Dining room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64c2f7a6827574406a3b70c692e55abb-cc_ft_768.webp",
+          "alt": "Bed room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8240e3d9b4ff42e13dad27bfa9c509e7-cc_ft_768.webp",
+          "alt": "Bath room"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "address": "O'Hara Island",
+      "date": "2019-10-29",
+      "category": "rent",
+      "price": 829869,
+      "unit": "USD",
+      "description": "The Here you are met by a well-planned and bright four-room apartment of 148 square meters. Large windows in the living room and generous ceiling height. Simply a pleasant accommodation.",
+      "images": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f802605124b90428355f747961c99371-cc_ft_1536.webp",
+          "alt": "main image"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/4042a68f75f7d211efcc1b1d852a5034-cc_ft_768.webp",
+          "alt": "Living room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/30c9ca67ab95540c3938aa1509c3b416-cc_ft_768.webp",
+          "alt": "Dining room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/64c2f7a6827574406a3b70c692e55abb-cc_ft_768.webp",
+          "alt": "Bed room"
+        },
+        {
+          "url": "https://photos.zillowstatic.com/fp/8240e3d9b4ff42e13dad27bfa9c509e7-cc_ft_768.webp",
+          "alt": "Bath room"
+        }
+      ]
+    }
+  ]
+}
